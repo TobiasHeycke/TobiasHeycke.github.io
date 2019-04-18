@@ -94,7 +94,7 @@ layout: default
 - Heycke, T., Gehrmann, S., Haaf, J. & Stahl, C. (2017, January). Of two minds or one? A registered replication of Rydell et al. (2006). Paper presented at the SPSP preconference – Attitudes & Social Influence, San Antonio, USA.
 
 
-**2016**
+**2016 & 2013**
 
 - Heycke, T., Aust, F., & Stahl, C. (2016, July). Subliminal CS Presentation in a Cross-Modal Evaluative Conditioning Paradigm. Paper presented at 5th European Meeting on the Psychology of Attitudes, Cologne, Germany.
 
