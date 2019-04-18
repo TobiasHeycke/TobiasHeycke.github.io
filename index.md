@@ -109,5 +109,5 @@ Stahl, C., & Heycke, T. (2016). Evaluative Conditioning with Simultaneous and Se
 
 - [Former group at University of Cologne](http://methexp.uni-koeln.de/)
 - [Blog on writing your dissertation in Markdown and papaja](http://rpubs.com/theycke/380678)
-- [Interview with Podcast Open Science Radio](http://www.openscienceradio.org/2019/03/19/osr156-open-science-strategy-error-culture-incentives-etc-oscibar-en/)
-- [Interview with Podcast ReproducibiliTea](https://soundcloud.com/reproducibilitea/episode-17-lisa-spitzer-and-tobias-heycke)
+- [Interview with Podcast: Open Science Radio](http://www.openscienceradio.org/2019/03/19/osr156-open-science-strategy-error-culture-incentives-etc-oscibar-en/)
+- [Interview with Podcast: ReproducibiliTea](https://soundcloud.com/reproducibilitea/episode-17-lisa-spitzer-and-tobias-heycke)
