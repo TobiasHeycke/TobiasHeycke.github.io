@@ -2,6 +2,12 @@
 layout: default
 ---
 
+[Twitter](https://twitter.com/TobiasHeycke) |
+[Open Science Framework](https://osf.io/q5eak/) |
+[ResearchGate](https://www.researchgate.net/profile/Tobias_Heycke) |
+[LinkedIn](https://de.linkedin.com/in/tobias-heycke-878a045a) |
+[orcid](http://orcid.org/0000-0001-6358-6713)
+
 Welcome to my personal homepage. I am a postdoctoral researcher at [GESIS](https://gesis.org) in Mannheim Germany.
 
 
@@ -11,10 +17,7 @@ Welcome to my personal homepage. I am a postdoctoral researcher at [GESIS](https
 [Talks & Teaching](#talks) |
 [Links](#links)
 
-[Twitter](https://twitter.com/TobiasHeycke) |
-[Open Science Framework](https://osf.io/q5eak/) |
-[ResearchGate](https://www.researchgate.net/profile/Tobias_Heycke) |
-[LinkedIn](https://de.linkedin.com/in/tobias-heycke-878a045a)
+
 
 <!--I am interesting in evaluative conditioning, subliminal influence and everything connected to Open Science in all disciplines, especially preregistration, R, RMarkdown, reproducible code, open science workshops, statistical methods.-->
 
@@ -54,21 +57,6 @@ Coordinating the work of software developers and student-assistants.
 
 **Student assistant at the Language and Cognition group** *03/2009 - 09/2011* <br>
 *Max Planck Institute for Psycholinguistics* <br>
-
-<!--
-## Volunteer work
-- promovierendenvertreter
-- trion
-- SPS NIP
-- Kirchentag
-
-## Honors and Grants
-- Austin travel
-- SPSP travel
-- nachwuchs preis
-- psychology honours programm
--buergerpreis meckenheim
--->
 
 # Publications
 
@@ -119,8 +107,7 @@ Stahl, C., & Heycke, T. (2016). Evaluative Conditioning with Simultaneous and Se
 
 # Links
 
-- [My OSF repository](https://osf.io/q5eak)
-- [Twitter](https://twitter.com/TobiasHeycke)
-- [orcid](http://orcid.org/0000-0001-6358-6713)
 - [Former group at University of Cologne](http://methexp.uni-koeln.de/)
 - [Blog on writing your dissertation in Markdown and papaja](http://rpubs.com/theycke/380678)
+- [Interview with Podcast Open Science Radio](http://www.openscienceradio.org/2019/03/19/osr156-open-science-strategy-error-culture-incentives-etc-oscibar-en/)
+- [Interview with Podcast ReproducibiliTea](https://soundcloud.com/reproducibilitea/episode-17-lisa-spitzer-and-tobias-heycke)
