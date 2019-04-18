@@ -2,13 +2,19 @@
 layout: default
 ---
 
-Welcome to my personal homepage. I am a postdoctoral researcher at [GESIS](https://gesis.org) in Mannheim Germany. 
+Welcome to my personal homepage. I am a postdoctoral researcher at [GESIS](https://gesis.org) in Mannheim Germany.
+
 
 [Contact](https://www.gesis.org/institut/mitarbeiterverzeichnis/person/?tx_gextstaffdir_staffdirectory%5bemail%5d=Tobias.Heycke@gesis.org&tx_gextstaffdir_staffdirectory%5baction%5d=details&tx_gextstaffdir_staffdirectory%5bcontroller%5d=Index&no_cache=1) |
 [Curriculum vitae](#curriculum-vitae) |
 [Publications](#publications) |
 [Talks & Teaching](#talks) |
 [Links](#links)
+
+[Twitter](https://twitter.com/TobiasHeycke) |
+[Open Science Framework](https://osf.io/q5eak/) |
+[ResearchGate](https://www.researchgate.net/profile/Tobias_Heycke) |
+[LinkedIn](https://de.linkedin.com/in/tobias-heycke-878a045a)
 
 <!--I am interesting in evaluative conditioning, subliminal influence and everything connected to Open Science in all disciplines, especially preregistration, R, RMarkdown, reproducible code, open science workshops, statistical methods.-->
 
@@ -66,6 +72,8 @@ Coordinating the work of software developers and student-assistants.
 
 # Publications
 
+Heycke, T., & Gawronski, B. (in press). Co-occurrence and relational information in evaluative learning: A multinomial modeling approach. *Journal of Experimental Psychology: General*. [PDF](http://www.bertramgawronski.com/documents/HG_JEPG.pdf) & [additional material](https://osf.io/7ac4d/)
+
 Heycke, T., & Stahl, C. (2018). No evaluative conditioning effects with briefly presented stimuli. *Psychological Research*. https://doi.org/10.1007/s00426-018-1109-1 [PDF](https://psyarxiv.com/ujq4g/) & [additional material](https://osf.io/3dn7e/files/)
 
 Heycke, T., Gehrmann, S., Haaf, J. M., & Stahl, C. (2018). Of two minds or one? A registered replication of Rydell et al. (2006). *Cognition and Emotion*, 32(8), 1708–1727. https://doi.org/10.1080/02699931.2018.1429389 [PDF](https://osf.io/tsvkd/) & [additional material](https://osf.io/c57sr/)
@@ -73,6 +81,7 @@ Heycke, T., Gehrmann, S., Haaf, J. M., & Stahl, C. (2018). Of two minds or one? 
 Heycke, T., Aust, F., & Stahl, C. (2017). Subliminal influence on preferences? A test of evaluative conditioning for brief visual conditioned stimuli using auditory unconditioned stimuli. *Royal Society Open Science*, 4, 160935. doi: 10.1098/rsos.160935 [PDF](https://doi.org/10.1098/rsos.160935) & [additional material](https://osf.io/cx5eh/)
 
 Stahl, C., & Heycke, T. (2016). Evaluative Conditioning with Simultaneous and Sequential Pairings Under Incidental and Intentional Learning Conditions. *Social Cognition*, 34(5), 382–412. https://doi.org/10.1521/soco.2016.34.5.382
+
 
 # Talks
 
@@ -94,6 +103,8 @@ Stahl, C., & Heycke, T. (2016). Evaluative Conditioning with Simultaneous and Se
 - SPSS (Faculty of Law, University of Cologne & Regional computing center, University of Cologne & German Sport University Cologne)
 
 ## Selection of conference talks
+
+- Heycke, T. & Spitzer, L. (2019, March). Automatic Preference Acquisition: Subliminal stimulus presentation in Evaluative Conditioning. Paper presented at the Tagung Experimentell Arbeitender Psychologen, Marburg, Germany.
 
 - Aust, F., Heycke, T., & Stahl, C. (2018, September). Does it replicate? Using Bayesian model comparisons to evaluate replication attempts of specific 2×2-interaction patterns. Paper presented at DGPs Congress, Frankfurt, Germany. [Slides](https://crsh.github.io/ml-otm-dgps-slides/)
 
