@@ -92,7 +92,7 @@ Stahl, C., & Heycke, T. (2016). Evaluative Conditioning with Simultaneous and Se
 
 ## Selection of conference talks
 
-- Heycke, T. & Spitzer, L. (2019, March). Automatic Preference Acquisition: Subliminal stimulus presentation in Evaluative Conditioning. Paper presented at the Tagung Experimentell Arbeitender Psychologen, Marburg, Germany.
+- Heycke, T. & Spitzer, L. (2019, March). Screen recordings as a tool to document computer assisted data collection procedures. Paper presented at the ZPID Open Science Conference, Trier, Germany. [Slides](https://osf.io/cbpu9/)
 
 - Aust, F., Heycke, T., & Stahl, C. (2018, September). Does it replicate? Using Bayesian model comparisons to evaluate replication attempts of specific 2×2-interaction patterns. Paper presented at DGPs Congress, Frankfurt, Germany. [Slides](https://crsh.github.io/ml-otm-dgps-slides/)
 

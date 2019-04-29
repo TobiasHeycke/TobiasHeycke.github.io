@@ -65,7 +65,7 @@ layout: default
 
 **2019**
 
-- Heycke, T. & Spitzer, L. (2019, March). Automatic Preference Acquisition: Subliminal stimulus presentation in Evaluative Conditioning. Paper presented at the Tagung Experimentell Arbeitender Psychologen, Marburg, Germany. [Slides](https://osf.io/cbpu9/)
+- Heycke, T. & Spitzer, L. (2019, March). Screen recordings as a tool to document computer assisted data collection procedures. Paper presented at the ZPID Open Science Conference, Trier, Germany. [Slides](https://osf.io/cbpu9/)
 
 - Heycke, Tobias. (2019, February). Preregistration in Theory, Open Science Meeting, Bali, Indonesia. [Slides](https://osf.io/s8tn7/)
 
