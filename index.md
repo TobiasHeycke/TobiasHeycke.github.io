@@ -75,6 +75,11 @@ Stahl, C., & Heycke, T. (2016). Evaluative Conditioning with Simultaneous and Se
 
 [Complete List of talks and teaching](pages/talks.md)
 
+## Invited talks/ Guest lectures
+
+- Reproducibility and Replicability of Scientific Findings: Challenges and Solutions (May 2019). *Keynote at the workshop: Meanings of Reproducibility*, Graz, [Slides](https://osf.io/38v9g/)
+- An Introduction Open Science (May 2019). *Guest Lecture at the Bachelor Sociology, RWTH Aachen*, Aachen, [Slides](https://osf.io/cmz7t/) 
+
 ## Selection of seminars
 
 - Statistics 1 (University of Cologne, Bachelor Psychology)
@@ -85,20 +90,15 @@ Stahl, C., & Heycke, T. (2016). Evaluative Conditioning with Simultaneous and Se
 ## Selection of workshops
 
 - R (Master Psychology, University of Cologne & tyssenkrupp AG)
-- How to deal with non significant *p* values (Albertus Magnus Graduate Center, University of Cologne)[Slides](https://osf.io/fvp9q/)
-- Introduction to git (GESIS – Leibniz Institute for the Social Sciences)
-- Introduction to R Markdown (GESIS – Leibniz Institute for the Social Sciences)
+- Git (GESIS – Leibniz Institute for the Social Sciences)
+- R Markdown (GESIS – Leibniz Institute for the Social Sciences, Open Science meeting Bali)
 - SPSS (Faculty of Law, University of Cologne & Regional computing center, University of Cologne & German Sport University Cologne)
 
 ## Selection of conference talks
 
 - Heycke, T. & Spitzer, L. (2019, March). Screen recordings as a tool to document computer assisted data collection procedures. Paper presented at the ZPID Open Science Conference, Trier, Germany. [Slides](https://osf.io/cbpu9/)
 
-- Aust, F., Heycke, T., & Stahl, C. (2018, September). Does it replicate? Using Bayesian model comparisons to evaluate replication attempts of specific 2×2-interaction patterns. Paper presented at DGPs Congress, Frankfurt, Germany. [Slides](https://crsh.github.io/ml-otm-dgps-slides/)
-
 - Heycke, T. & Stahl, C. (2018, March). Automatic Preference Acquisition: Subliminal stimulus presentation in Evaluative Conditioning. Paper presented at the Tagung Experimentell Arbeitender Psychologen, Marburg, Germany.
-
-- Gawronski, B., & Heycke, T. (2017, October). Associative and propositional processes in evaluative conditioning: A multinomial modeling approach. Talk at the Annual Meeting of the Society of Experimental Social Psychology, Boston, MA, USA.
 
 - Heycke, T., Gehrmann, S., Haaf, J. & Stahl, C. (2017, January). Of two minds or one? A registered replication of Rydell et al. (2006). Paper presented at the SPSP preconference – Attitudes & Social Influence, San Antonio, USA.
 

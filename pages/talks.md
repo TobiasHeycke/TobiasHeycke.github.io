@@ -10,6 +10,13 @@ layout: default
 
 # Talks & Teaching
 
+
+## Invited talks/ Guest lectures
+
+- Reproducibility and Replicability of Scientific Findings: Challenges and Solutions (May 2019). *Keynote at the workshop: Meanings of Reproducibility*, Graz, [Slides](https://osf.io/38v9g/)
+- An Introduction Open Science (May 2019). *Guest Lecture at the Bachelor Sociology, RWTH Aachen*, Aachen, [Slides](https://osf.io/cmz7t/) 
+
+
 ## University Seminars
 
 - Multivariate Statistics, *University of Cologne, Master Psychology*, 2018
@@ -21,6 +28,7 @@ layout: default
 - Empirical-Experimental Internship, *University of Cologne, Bachelor Psychology*, 2014
 - Statistics 2, *University of Cologne, Bachelor Psychology*, 2014
 - Statistics 1, *University of Cologne, Bachelor Psychology*, 2013 - 2014
+
 
 ## Workshops
 
@@ -101,11 +109,5 @@ layout: default
 - Heycke, T. & Stahl, C. (2016, March). Subliminal CS Presentation in a Cross-Modal Evaluative Conditioning Paradigm. Talk at the Tagung Experimentell Arbeitender Psychologen, Heidelberg, Germany
 
 - Heycke, T., Holland, R., & van Knippenberg, A. (2013, December). Sad Mood Reduces Conscious, but not Unconscious, Stereotypical Associations. (Verdrietige Stemming Vermindert Bewuste, maar niet Onbewuste, Stereotype Associaties). Jaarboek Sociale Psychologie. 
-
-<!--
-## Invited talks/ Guest lectures
-- Graz
-- Aachen
--->
 
 
