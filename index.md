@@ -60,6 +60,8 @@ Coordinating the work of software developers and student-assistants.
 
 # Publications
 
+Heycke, T. & Spitzer, S. (in press). Screen recordings as a tool to document computer assisted data collection procedures. *Psychologica Belgica*. [PDF](https://psyarxiv.com/rbn8c) & [additional material](https://osf.io/y6gbm/)
+
 Heycke, T., & Gawronski, B. (in press). Co-occurrence and relational information in evaluative learning: A multinomial modeling approach. *Journal of Experimental Psychology: General*. http://dx.doi.org/10.1037/xge0000620 [PDF](http://www.bertramgawronski.com/documents/HG_JEPG.pdf) & [additional material](https://osf.io/7ac4d/)
 
 Heycke, T., & Stahl, C. (2018). No evaluative conditioning effects with briefly presented stimuli. *Psychological Research*. https://doi.org/10.1007/s00426-018-1109-1 [PDF](https://psyarxiv.com/ujq4g/) & [additional material](https://osf.io/3dn7e/files/)
