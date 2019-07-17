@@ -98,6 +98,8 @@ Stahl, C., & Heycke, T. (2016). Evaluative Conditioning with Simultaneous and Se
 
 ## Selection of conference talks
 
+- Heycke, T. & Weiß, B. (2019, July). Preregistration of Secondary Data Analysis. Paper presented at the 8th Conference of the European Survey Research Association, Zagreb, Croatia. [Slides](https://osf.io/cqb47/) 
+
 - Heycke, T. & Spitzer, L. (2019, March). Screen recordings as a tool to document computer assisted data collection procedures. Paper presented at the ZPID Open Science Conference, Trier, Germany. [Slides](https://osf.io/cbpu9/)
 
 - Heycke, T. & Stahl, C. (2018, March). Automatic Preference Acquisition: Subliminal stimulus presentation in Evaluative Conditioning. Paper presented at the Tagung Experimentell Arbeitender Psychologen, Marburg, Germany.
