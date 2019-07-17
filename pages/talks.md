@@ -14,7 +14,7 @@ layout: default
 ## Invited talks/ Guest lectures
 
 - Reproducibility and Replicability of Scientific Findings: Challenges and Solutions (May 2019). *Keynote at the workshop: Meanings of Reproducibility*, Graz, [Slides](https://osf.io/38v9g/)
-- An Introduction Open Science (May 2019). *Guest Lecture at the Bachelor Sociology, RWTH Aachen*, Aachen, [Slides](https://osf.io/cmz7t/) 
+- An Introduction to Open Science (May 2019). *Guest Lecture at the Bachelor Sociology, RWTH Aachen*, Aachen, [Slides](https://osf.io/cmz7t/) 
 
 
 ## University Seminars
@@ -34,6 +34,7 @@ layout: default
 
 **2019**
 
+- Introduction to version control using Git, *4th Conference of the Society for Improvement of Psychological Science*, July 2019 [Slides](https://osf.io/h3snq/)
 - Introduction to R Markdown, *GESIS – Leibniz Institute for the Social Sciences*, April 2019 [Slides](https://osf.io/ahu8x/)
 - A Beginner's Guide to Statistical Computing with R, *Open Science Meeting Bali*, February 2019
 - Preregistration of Primary Data Analyses, *Open Science Meeting Bali*, February 2019
@@ -72,6 +73,8 @@ layout: default
 ## Conference talks
 
 **2019**
+
+- Heycke, T. & Weiß, B. (2019, July). Preregistration of Secondary Data Analysis. Paper presented at the 8th Conference of the European Survey Research Association, Zagreb, Croatia. [Slides](https://osf.io/cqb47/)
 
 - Heycke, T. & Spitzer, L. (2019, March). Screen recordings as a tool to document computer assisted data collection procedures. Paper presented at the ZPID Open Science Conference, Trier, Germany. [Slides](https://osf.io/cbpu9/)
 
