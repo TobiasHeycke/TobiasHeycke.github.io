@@ -125,9 +125,6 @@ Stahl, C., & Heycke, T. (2016). Evaluative Conditioning with Simultaneous and Se
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">GESIS has Open Science as a central strategic goal. Really cool how institutions are implementing these practices! Also lucky for them they were able to hire <a href="https://twitter.com/TobiasHeycke?ref_src=twsrc%5Etfw">@TobiasHeycke</a> as their open science enthusiast <a href="https://twitter.com/hashtag/ossc19?src=hash&amp;ref_src=twsrc%5Etfw">#ossc19</a> <a href="https://t.co/L2spPR5xOl">https://t.co/L2spPR5xOl</a></p>&mdash; Julia Rohrer (@dingding_peng) <a href="https://twitter.com/dingding_peng/status/1089163794088161282?ref_src=twsrc%5Etfw">January 26, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-<br> 
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">GESIS has Open Science as a central strategic goal. Really cool how institutions are implementing these practices! Also lucky for them they were able to hire <a href="https://twitter.com/TobiasHeycke?ref_src=twsrc%5Etfw">@TobiasHeycke</a> as their open science enthusiast <a href="https://twitter.com/hashtag/ossc19?src=hash&amp;ref_src=twsrc%5Etfw">#ossc19</a> <a href="https://t.co/L2spPR5xOl">https://t.co/L2spPR5xOl</a></p>&mdash; Julia Rohrer (@dingding_peng) <a href="https://twitter.com/dingding_peng/status/1089163794088161282?ref_src=twsrc%5Etfw">January 26, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 
 # Links
