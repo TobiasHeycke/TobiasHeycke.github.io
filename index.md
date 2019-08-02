@@ -60,9 +60,9 @@ Coordinating the work of software developers and student-assistants.
 
 # Publications
 
-Heycke, T. & Spitzer, S. (in press). Screen recordings as a tool to document computer assisted data collection procedures. *Psychologica Belgica*. [PDF](https://psyarxiv.com/rbn8c) & [additional material](https://osf.io/y6gbm/)
-
 Heycke, T., & Gawronski, B. (in press). Co-occurrence and relational information in evaluative learning: A multinomial modeling approach. *Journal of Experimental Psychology: General*. http://dx.doi.org/10.1037/xge0000620 [PDF](http://www.bertramgawronski.com/documents/HG_JEPG.pdf) & [additional material](https://osf.io/7ac4d/)
+
+Heycke, T. & Spitzer, S. (2019). Screen recordings as a tool to document computer assisted data collection procedures. *Psychologica Belgica*, 59(1), pp.269–280. http://doi.org/10.5334/pb.490 [PDF](https://www.psychologicabelgica.com/articles/10.5334/pb.490/) & [additional material](https://osf.io/y6gbm/)
 
 Heycke, T., & Stahl, C. (2018). No evaluative conditioning effects with briefly presented stimuli. *Psychological Research*. https://doi.org/10.1007/s00426-018-1109-1 [PDF](https://psyarxiv.com/ujq4g/) & [additional material](https://osf.io/3dn7e/files/)
 
@@ -97,6 +97,8 @@ Stahl, C., & Heycke, T. (2016). Evaluative Conditioning with Simultaneous and Se
 - SPSS (Faculty of Law, University of Cologne & Regional computing center, University of Cologne & German Sport University Cologne)
 
 ## Selection of conference talks
+
+- Heycke, T. & Weiß, B. (2019, July). Preregistration of Secondary Data Analysis. Paper presented at the 8th Conference of the European Survey Research Association, Zagreb, Croatia. [Slides](https://osf.io/cqb47/) 
 
 - Heycke, T. & Spitzer, L. (2019, March). Screen recordings as a tool to document computer assisted data collection procedures. Paper presented at the ZPID Open Science Conference, Trier, Germany. [Slides](https://osf.io/cbpu9/)
 
