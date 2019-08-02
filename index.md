@@ -107,6 +107,20 @@ Stahl, C., & Heycke, T. (2016). Evaluative Conditioning with Simultaneous and Se
 - Heycke, T., Aust, F., & Stahl, C. (2016, July). Subliminal CS Presentation in a Cross-Modal Evaluative Conditioning Paradigm. Paper presented at 5th European Meeting on the Psychology of Attitudes, Cologne, Germany.
 
 
+# Nice twitter mentions
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I was using git for quite a while but never understood what I was really doing. Thanks to <a href="https://twitter.com/TobiasHeycke?ref_src=twsrc%5Etfw">@TobiasHeycke</a> great workshop I feel way more confident now :D <a href="https://twitter.com/hashtag/SIPS2019?src=hash&amp;ref_src=twsrc%5Etfw">#SIPS2019</a></p>&mdash; Patrick Klaiber (@tuning_fork) <a href="https://twitter.com/tuning_fork/status/1148237451900702721?ref_src=twsrc%5Etfw">July 8, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Really enjoyed reading this by <a href="https://twitter.com/TobiasHeycke?ref_src=twsrc%5Etfw">@TobiasHeycke</a> and <a href="https://twitter.com/Lisa__Spitzer?ref_src=twsrc%5Etfw">@Lisa__Spitzer</a> <br><br>(Screen)recordings should be available not just as a supplement though. How are we going to make that happen? :)<a href="https://t.co/T0zKLwRwUD">https://t.co/T0zKLwRwUD</a></p>&mdash; chris hartgerink (@chartgerink) <a href="https://twitter.com/chartgerink/status/1151863121188937728?ref_src=twsrc%5Etfw">July 18, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/TobiasHeycke?ref_src=twsrc%5Etfw">@TobiasHeycke</a>&#39;s great keynote <a href="https://twitter.com/GrazOpenScience?ref_src=twsrc%5Etfw">@GrazOpenScience</a>, &quot;Reproducibility and replicability <br>of scientific findings: challenges and solutions&quot;, can be found at <a href="https://t.co/7eqlgaDELR">https://t.co/7eqlgaDELR</a></p>&mdash; Matthias Apfelthaler (@m_apfelthaler) <a href="https://twitter.com/m_apfelthaler/status/1129306966331940864?ref_src=twsrc%5Etfw">May 17, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">GESIS has Open Science as a central strategic goal. Really cool how institutions are implementing these practices! Also lucky for them they were able to hire <a href="https://twitter.com/TobiasHeycke?ref_src=twsrc%5Etfw">@TobiasHeycke</a> as their open science enthusiast <a href="https://twitter.com/hashtag/ossc19?src=hash&amp;ref_src=twsrc%5Etfw">#ossc19</a> <a href="https://t.co/L2spPR5xOl">https://t.co/L2spPR5xOl</a></p>&mdash; Julia Rohrer (@dingding_peng) <a href="https://twitter.com/dingding_peng/status/1089163794088161282?ref_src=twsrc%5Etfw">January 26, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">GESIS has Open Science as a central strategic goal. Really cool how institutions are implementing these practices! Also lucky for them they were able to hire <a href="https://twitter.com/TobiasHeycke?ref_src=twsrc%5Etfw">@TobiasHeycke</a> as their open science enthusiast <a href="https://twitter.com/hashtag/ossc19?src=hash&amp;ref_src=twsrc%5Etfw">#ossc19</a> <a href="https://t.co/L2spPR5xOl">https://t.co/L2spPR5xOl</a></p>&mdash; Julia Rohrer (@dingding_peng) <a href="https://twitter.com/dingding_peng/status/1089163794088161282?ref_src=twsrc%5Etfw">January 26, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
 # Links
 
 - [Former group at University of Cologne](http://methexp.uni-koeln.de/)
