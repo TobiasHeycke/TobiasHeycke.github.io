@@ -108,7 +108,7 @@ Stahl, C., & Heycke, T. (2016). Evaluative Conditioning with Simultaneous and Se
 
 - Heycke, T., Aust, F., & Stahl, C. (2016, July). Subliminal CS Presentation in a Cross-Modal Evaluative Conditioning Paradigm. Paper presented at 5th European Meeting on the Psychology of Attitudes, Cologne, Germany.
 
-
+<!--
 # Nice twitter mentions
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I was using git for quite a while but never understood what I was really doing. Thanks to <a href="https://twitter.com/TobiasHeycke?ref_src=twsrc%5Etfw">@TobiasHeycke</a> great workshop I feel way more confident now :D <a href="https://twitter.com/hashtag/SIPS2019?src=hash&amp;ref_src=twsrc%5Etfw">#SIPS2019</a></p>&mdash; Patrick Klaiber (@tuning_fork) <a href="https://twitter.com/tuning_fork/status/1148237451900702721?ref_src=twsrc%5Etfw">July 8, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
@@ -124,7 +124,7 @@ Stahl, C., & Heycke, T. (2016). Evaluative Conditioning with Simultaneous and Se
 <br> 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">GESIS has Open Science as a central strategic goal. Really cool how institutions are implementing these practices! Also lucky for them they were able to hire <a href="https://twitter.com/TobiasHeycke?ref_src=twsrc%5Etfw">@TobiasHeycke</a> as their open science enthusiast <a href="https://twitter.com/hashtag/ossc19?src=hash&amp;ref_src=twsrc%5Etfw">#ossc19</a> <a href="https://t.co/L2spPR5xOl">https://t.co/L2spPR5xOl</a></p>&mdash; Julia Rohrer (@dingding_peng) <a href="https://twitter.com/dingding_peng/status/1089163794088161282?ref_src=twsrc%5Etfw">January 26, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
+-->
 
 
 # Links
