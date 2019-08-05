@@ -3,7 +3,7 @@ layout: default
 ---
 
 <center>
-  <img src="../img/th_teach.jpg">
+  <img src="../img/th_teach.png">
 </center>
 
 [Back to main page](../index.md)
