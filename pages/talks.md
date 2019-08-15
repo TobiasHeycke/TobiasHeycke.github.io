@@ -34,6 +34,7 @@ layout: default
 
 **2019**
 
+- Open Methodology in Practice: Reproducible Research in R, *GESIS Training*, July 2019 [Slides and Material](https://github.com/TobiasHeycke/reproduzierbare_forschung_pub)
 - Introduction to version control using Git, *4th Conference of the Society for Improvement of Psychological Science*, July 2019 [Slides](https://osf.io/h3snq/)
 - Introduction to R Markdown, *GESIS – Leibniz Institute for the Social Sciences*, April 2019 [Slides](https://osf.io/ahu8x/)
 - A Beginner's Guide to Statistical Computing with R, *Open Science Meeting Bali*, February 2019
