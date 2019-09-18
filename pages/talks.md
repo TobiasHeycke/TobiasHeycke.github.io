@@ -76,6 +76,8 @@ layout: default
 
 **2019**
 
+- Heycke, T. (2019, September). A call for comprehensive documentation of data collection procedures. Poster presented at the Metascience Symposium 2019, Stanford, USA. [Poster](https://osf.io/u4ytx/)
+
 - Heycke, T. & Weiß, B. (2019, July). Preregistration of Secondary Data Analysis. Paper presented at the 8th Conference of the European Survey Research Association, Zagreb, Croatia. [Slides](https://osf.io/cqb47/)
 
 - Heycke, T. & Spitzer, L. (2019, March). Screen recordings as a tool to document computer assisted data collection procedures. Paper presented at the ZPID Open Science Conference, Trier, Germany. [Slides](https://osf.io/cbpu9/)
