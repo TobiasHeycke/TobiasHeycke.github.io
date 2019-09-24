@@ -35,9 +35,6 @@ Welcome to my personal homepage. I am a postdoctoral researcher at [GESIS](https
 **B. Sc., Psychology** *09/2007 - 09/2011*<br>
 *Radboud University Nijmegen, Netherlands*
 
-**High School Diploma (Abitur)** *06/2007* <br>	
-*Konrad-Adenauer-Gymnasium, Meckenheim, Germany*
-
 
 ### Professional Experience
 
@@ -60,17 +57,17 @@ Coordinating the work of software developers and student-assistants.
 
 # Publications
 
-Heycke, T., & Gawronski, B. (in press). Co-occurrence and relational information in evaluative learning: A multinomial modeling approach. *Journal of Experimental Psychology: General*. http://dx.doi.org/10.1037/xge0000620 [PDF](http://www.bertramgawronski.com/documents/HG_JEPG.pdf) & [additional material](https://osf.io/7ac4d/)
+**Heycke, T.**, & Gawronski, B. (in press). Co-occurrence and relational information in evaluative learning: A multinomial modeling approach. *Journal of Experimental Psychology: General*. http://dx.doi.org/10.1037/xge0000620 [PDF](http://www.bertramgawronski.com/documents/HG_JEPG.pdf) & [additional material](https://osf.io/7ac4d/)
 
-Heycke, T. & Spitzer, L. (2019). Screen recordings as a tool to document computer assisted data collection procedures. *Psychologica Belgica*, 59(1), pp.269–280. http://doi.org/10.5334/pb.490 [PDF](https://www.psychologicabelgica.com/articles/10.5334/pb.490/) & [additional material](https://osf.io/y6gbm/)
+**Heycke, T.** & Spitzer, L. (2019). Screen recordings as a tool to document computer assisted data collection procedures. *Psychologica Belgica*, 59(1), pp.269–280. http://doi.org/10.5334/pb.490 [PDF](https://www.psychologicabelgica.com/articles/10.5334/pb.490/) & [additional material](https://osf.io/y6gbm/)
 
-Heycke, T., & Stahl, C. (2018). No evaluative conditioning effects with briefly presented stimuli. *Psychological Research*. https://doi.org/10.1007/s00426-018-1109-1 [PDF](https://psyarxiv.com/ujq4g/) & [additional material](https://osf.io/3dn7e/files/)
+**Heycke, T.**, & Stahl, C. (2018). No evaluative conditioning effects with briefly presented stimuli. *Psychological Research*. https://doi.org/10.1007/s00426-018-1109-1 [PDF](https://psyarxiv.com/ujq4g/) & [additional material](https://osf.io/3dn7e/files/)
 
-Heycke, T., Gehrmann, S., Haaf, J. M., & Stahl, C. (2018). Of two minds or one? A registered replication of Rydell et al. (2006). *Cognition and Emotion*, 32(8), 1708–1727. https://doi.org/10.1080/02699931.2018.1429389 [PDF](https://osf.io/tsvkd/) & [additional material](https://osf.io/c57sr/)
+**Heycke, T.**, Gehrmann, S., Haaf, J. M., & Stahl, C. (2018). Of two minds or one? A registered replication of Rydell et al. (2006). *Cognition and Emotion*, 32(8), 1708–1727. https://doi.org/10.1080/02699931.2018.1429389 [PDF](https://osf.io/tsvkd/) & [additional material](https://osf.io/c57sr/)
 
-Heycke, T., Aust, F., & Stahl, C. (2017). Subliminal influence on preferences? A test of evaluative conditioning for brief visual conditioned stimuli using auditory unconditioned stimuli. *Royal Society Open Science*, 4, 160935. doi: 10.1098/rsos.160935 [PDF](https://doi.org/10.1098/rsos.160935) & [additional material](https://osf.io/cx5eh/)
+**Heycke, T.**, Aust, F., & Stahl, C. (2017). Subliminal influence on preferences? A test of evaluative conditioning for brief visual conditioned stimuli using auditory unconditioned stimuli. *Royal Society Open Science*, 4, 160935. doi: 10.1098/rsos.160935 [PDF](https://doi.org/10.1098/rsos.160935) & [additional material](https://osf.io/cx5eh/)
 
-Stahl, C., & Heycke, T. (2016). Evaluative Conditioning with Simultaneous and Sequential Pairings Under Incidental and Intentional Learning Conditions. *Social Cognition*, 34(5), 382–412. https://doi.org/10.1521/soco.2016.34.5.382
+Stahl, C., & **Heycke, T.** (2016). Evaluative Conditioning with Simultaneous and Sequential Pairings Under Incidental and Intentional Learning Conditions. *Social Cognition*, 34(5), 382–412. https://doi.org/10.1521/soco.2016.34.5.382
 
 
 # Talks
