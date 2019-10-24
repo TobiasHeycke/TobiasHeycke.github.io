@@ -13,6 +13,8 @@ layout: default
 
 ## Invited talks/ Guest lectures
 
+
+- A Beginner's Guide to Open Science (October 2019). *Keynote at the 3rd Annual Meeting of the Leibniz PostDoc Network*, Cologne, [Slides](https://osf.io/mg2vb/)
 - Open Science: Challenges and Solutions (August 2019). *Keynote at the 8th GESIS Summer School in Survey Methodology*, Cologne, [Slides](https://osf.io/92wgx/)
 - Reproducibility and Replicability of Scientific Findings: Challenges and Solutions (May 2019). *Keynote at the workshop: Meanings of Reproducibility*, Graz, [Slides](https://osf.io/38v9g/)
 - An Introduction to Open Science (May 2019). *Guest Lecture at the Bachelor Sociology, RWTH Aachen*, Aachen, [Slides](https://osf.io/cmz7t/) 
