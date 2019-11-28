@@ -37,6 +37,7 @@ layout: default
 
 **2019**
 
+- An introduction to Git and GitLab, *GESIS Training*, November 2019 [Slides](https://osf.io/h7fv5/)
 - Introduction to R Markdown, *Rostock Open Science Workshop, Max Planck Institute for Demographic Research*, October 2019 [Slides](https://osf.io/mrphf/)
 - Introduction to version control using git, *Rostock Open Science Workshop, Max Planck Institute for Demographic Research*, October 2019 [Slides](https://osf.io/6cq5y/)
 - Open Methodology in Practice: Reproducible Research in R, *GESIS Training*, July 2019 [Slides and Material](https://github.com/TobiasHeycke/reproduzierbare_forschung_pub)
