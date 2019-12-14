@@ -13,6 +13,8 @@ layout: default
 
 ## Invited talks/ Guest lectures
 
+
+- A Beginner's Guide to Open Science (October 2019). *Keynote at the 3rd Annual Meeting of the Leibniz PostDoc Network*, Cologne, [Slides](https://osf.io/mg2vb/)
 - Open Science: Challenges and Solutions (August 2019). *Keynote at the 8th GESIS Summer School in Survey Methodology*, Cologne, [Slides](https://osf.io/92wgx/)
 - Reproducibility and Replicability of Scientific Findings: Challenges and Solutions (May 2019). *Keynote at the workshop: Meanings of Reproducibility*, Graz, [Slides](https://osf.io/38v9g/)
 - An Introduction to Open Science (May 2019). *Guest Lecture at the Bachelor Sociology, RWTH Aachen*, Aachen, [Slides](https://osf.io/cmz7t/) 
@@ -35,6 +37,9 @@ layout: default
 
 **2019**
 
+- An introduction to Git and GitLab, *GESIS Training*, November 2019 [Slides](https://osf.io/h7fv5/)
+- Introduction to R Markdown, *Rostock Open Science Workshop, Max Planck Institute for Demographic Research*, October 2019 [Slides](https://osf.io/mrphf/)
+- Introduction to version control using git, *Rostock Open Science Workshop, Max Planck Institute for Demographic Research*, October 2019 [Slides](https://osf.io/6cq5y/)
 - Open Methodology in Practice: Reproducible Research in R, *GESIS Training*, July 2019 [Slides and Material](https://github.com/TobiasHeycke/reproduzierbare_forschung_pub)
 - Introduction to version control using Git, *4th Conference of the Society for Improvement of Psychological Science*, July 2019 [Slides](https://osf.io/h3snq/)
 - Introduction to R Markdown, *GESIS – Leibniz Institute for the Social Sciences*, April 2019 [Slides](https://osf.io/ahu8x/)
