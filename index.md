@@ -11,7 +11,7 @@ layout: default
 Welcome to my personal homepage. I am a postdoctoral researcher at [GESIS](https://gesis.org) in Mannheim Germany.
 
 
-[Contact](https://www.gesis.org/institut/mitarbeiterverzeichnis/person/?tx_gextstaffdir_staffdirectory%5bemail%5d=Tobias.Heycke@gesis.org&tx_gextstaffdir_staffdirectory%5baction%5d=details&tx_gextstaffdir_staffdirectory%5bcontroller%5d=Index&no_cache=1) |
+[Contact](https://www.gesis.org/person/Tobias.Heycke) |
 [Curriculum vitae](#curriculum-vitae) |
 [Publications](#publications) |
 [Talks & Teaching](#talks) |
@@ -57,7 +57,7 @@ Coordinating the work of software developers and student-assistants.
 
 # Publications
 
-**Heycke, T.**, & Gawronski, B. (in press). Co-occurrence and relational information in evaluative learning: A multinomial modeling approach. *Journal of Experimental Psychology: General*. http://dx.doi.org/10.1037/xge0000620 [PDF](http://www.bertramgawronski.com/documents/HG_JEPG.pdf) & [additional material](https://osf.io/7ac4d/)
+**Heycke, T.**, & Gawronski, B. (2020). Co-occurrence and relational information in evaluative learning: A multinomial modeling approach. *Journal of Experimental Psychology: General*, 149(1), 104–124. http://dx.doi.org/10.1037/xge0000620 [PDF](http://www.bertramgawronski.com/documents/HG2020JEPG.pdf) & [additional material](https://osf.io/7ac4d/)
 
 **Heycke, T.** & Spitzer, L. (2019). Screen recordings as a tool to document computer assisted data collection procedures. *Psychologica Belgica*, 59(1), pp.269–280. http://doi.org/10.5334/pb.490 [PDF](https://www.psychologicabelgica.com/articles/10.5334/pb.490/) & [additional material](https://osf.io/y6gbm/)
 
