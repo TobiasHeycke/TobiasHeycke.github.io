@@ -35,6 +35,10 @@ layout: default
 
 ## Workshops
 
+**2020**
+
+- An introduction to Git and GitHub, *Zentralinstitut für Seelische Gesundheit, Mannheim*, April 20209 [Slides](https://osf.io/5h3vu/)
+
 **2019**
 
 - An introduction to Git and GitLab, *GESIS Training*, November 2019 [Slides](https://osf.io/h7fv5/)
