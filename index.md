@@ -33,21 +33,21 @@ Welcome to my personal homepage. I left academia in August 2020. Get in touch if
 *Radboud University Nijmegen, Netherlands*
 
 
-### Professional Experience
+### Academic Career
 
-**Postdoctoral researcher** *Since 09/2018 - 08/2020* <br>
+**Postdoctoral researcher** *09/2018 - 08/2020* <br>
 *GESIS – Leibniz Institute for the Social Sciences* <br>
 Implementing the GESIS Open Science Strategy. 
 My work consists of all aspects of changing the science culture towards a more open culture.
 I give talks on the importance of open science and organize and teach workshops on open science tools.
 
+**Visiting researcher** *08/2015 - 10/2015* <br>
+*University of Texas, Austin, TX, USA* <br>
+Visiting the social cognition lab of Prof. Dr. Gawronski.
+
 **Research associate at the Chair for Research Methods and Experimental Psychology** *12/2013 - 09/2018* <br>
 *University of Cologne, Germany* <br>
 Teaching in the Bachelor and Master of Psychology and the Bachelor Inter-Media.
-
-**Project Manager of an online learning platform** *09/2014 - 09/2018* <br>
-*University of Cologne, Germany* <br>
-Coordinating the work of software developers and student-assistants.
 
 **Student assistant at the Language and Cognition group** *03/2009 - 09/2011* <br>
 *Max Planck Institute for Psycholinguistics* <br>
