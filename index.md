@@ -54,6 +54,10 @@ Coordinating the work of software developers and student-assistants.
 
 # Publications
 
+Chin, J. M., DeHaven, A. C., **Heycke, T.**, Holcombe, A. O., Mellor, D. T., Pickett, J. T., ... & Zeiler, K. (2021). Improving the Credibility of Empirical Legal Research: Practical Suggestions for Researchers, Journals and Law Schools. Law, Technology and Humans, 3(1). https://doi.org/10.5204/lthj.1875
+
+Moran, T., [...], ***Heycke, T.**, [...] De Houwer, J. (2021). Incidental attitude formation via the surveillance task: A preregistered replication of the Olson and Fazio (2001) study. *Psychological Science*, 32(1), 120-131. https://doi.org/10.1177/0956797620968526
+
 **Heycke, T.**, & Gawronski, B. (2020). Co-occurrence and relational information in evaluative learning: A multinomial modeling approach. *Journal of Experimental Psychology: General*, 149(1), 104–124. http://dx.doi.org/10.1037/xge0000620 [PDF](http://www.bertramgawronski.com/documents/HG2020JEPG.pdf) & [additional material](https://osf.io/7ac4d/)
 
 **Heycke, T.** & Spitzer, L. (2019). Screen recordings as a tool to document computer assisted data collection procedures. *Psychologica Belgica*, 59(1), pp.269–280. http://doi.org/10.5334/pb.490 [PDF](https://www.psychologicabelgica.com/articles/10.5334/pb.490/) & [additional material](https://osf.io/y6gbm/)
